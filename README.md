@@ -3,7 +3,7 @@
 ## Olá pessoal 👋
 Estou entrando no mundo da programação Web e adoro resolver problemas usando programação. :computer:
 
- :computer:  &nbsp; Atualmente trabalho no **Martins Comercio e Serviços de Distribuição**
+ :computer:  &nbsp; Atualmente trabalho na Empresa **Quality Systems LTDA** como desenvolvedor **Front-End**
  <br/> :purple_heart: &nbsp; Buscando colaborar com projetos em Front-end usando React
  <br/> :computer: &nbsp; Minha stack: ReactJS, Next.JS, Node.js, React Native & Typescript
  <br/> 💬  &nbsp; Sobre mim: Curto tecnologias, Games: CS:GO, LoL, PUBG e Seriados/Filmes
