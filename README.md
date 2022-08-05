@@ -40,7 +40,7 @@ Contact me:
 
  
  I'm a Web developer and I love solving issues using development.
- <br/> :computer:  &nbsp; I currently work @**Quality Systems LTDA** as a **Front-End** Developer.
+ <br/> :computer:  &nbsp; I currently work @ **Quality Systems LTDA** as a **Front-End** Developer.
  <br/> :purple_heart: &nbsp; I'm open to collaborating in projects using React
  <br/> 💬  &nbsp; More about me: I'm Tech Savvy, I like playing games on my free time such as CS:GO, LoL, PUBG e I like watching TV Shows and Movies
  
