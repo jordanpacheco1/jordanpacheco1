@@ -1,4 +1,4 @@
-## Olá pessoal, eu sou o Jordan Pacheco, desenvolvedor Front-end 👋
+## Hi, I'm Jordan Pacheco, Front-end developer 👋
 <div>
  <a href="https://github.com/jordanpacheco1">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jordanpacheco1&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
@@ -7,7 +7,7 @@
 </div>
   
 <div style="display: inline_block"><br>
- :computer: &nbsp; Minha stack:
+ :computer: &nbsp; My stack:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="52" alt="javascript logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" width="52" alt="typescript logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" width="52" alt="react logo"  />
@@ -17,7 +17,7 @@
 </div>
 
 ###
-Entre em contato comigo: 
+Contact me: 
   <a href="https://www.linkedin.com/in/jordan-pacheco/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
@@ -39,9 +39,9 @@ Entre em contato comigo:
   
 
  
- Estou entrando no mundo da programação Web e adoro resolver problemas usando programação.
- <br/> :computer:  &nbsp; Atualmente trabalho na Empresa **Quality Systems LTDA** como desenvolvedor **Front-End**
- <br/> :purple_heart: &nbsp; Buscando colaborar com projetos em Front-end usando React
- <br/> 💬  &nbsp; Sobre mim: Curto tecnologias, Games: CS:GO, LoL, PUBG e Seriados/Filmes
+ I'm a Web developer and I love solving issues using development.
+ <br/> :computer:  &nbsp; I currently work @**Quality Systems LTDA** as a **Front-End** Developer.
+ <br/> :purple_heart: &nbsp; I'm open to collaborating in projects using React
+ <br/> 💬  &nbsp; More about me: I'm Tech Savvy, I like playing games on my free time such as CS:GO, LoL, PUBG e I like watching TV Shows and Movies
  
  ![Snake animation](https://github.com/jordanpacheco1/jordanpacheco1/blob/output/github-contribution-grid-snake.svg)
