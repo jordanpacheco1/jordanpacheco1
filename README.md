@@ -36,6 +36,10 @@ Contact me:
   </a>
 ###
 
+<a href="https://my-portfolio-v2-xi-lake.vercel.app/" target="_blank">
+    My Portfolio
+</a>
+
   ##
   
 
